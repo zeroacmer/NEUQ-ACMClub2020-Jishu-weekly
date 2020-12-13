@@ -1,6 +1,7 @@
 ## NEUQ-ACM俱乐部2020技术部周报收集
 
-> 本项目目前用于收集技术组成员的周报（后面可能会扩大到技术部）
+> 本项目目前用于收集技术组成员的周报（后面可能会扩大到技术部），请不要随意pull request，谢谢
+> This project is currently used to collect weekly reports from members of the technical team, please do not pull request at will, thank you
 
 #### 周报上传步骤
 
